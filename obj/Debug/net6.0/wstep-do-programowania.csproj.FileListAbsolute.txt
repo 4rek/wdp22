@@ -1,0 +1,15 @@
+/Users/arek/Projects/other/ue/wstep-do-programowania/bin/Debug/net6.0/wstep-do-programowania
+/Users/arek/Projects/other/ue/wstep-do-programowania/bin/Debug/net6.0/wstep-do-programowania.deps.json
+/Users/arek/Projects/other/ue/wstep-do-programowania/bin/Debug/net6.0/wstep-do-programowania.runtimeconfig.json
+/Users/arek/Projects/other/ue/wstep-do-programowania/bin/Debug/net6.0/wstep-do-programowania.dll
+/Users/arek/Projects/other/ue/wstep-do-programowania/bin/Debug/net6.0/wstep-do-programowania.pdb
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.csproj.AssemblyReference.cache
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.AssemblyInfoInputs.cache
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.AssemblyInfo.cs
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.csproj.CoreCompileInputs.cache
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.dll
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/refint/wstep-do-programowania.dll
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.pdb
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/wstep-do-programowania.genruntimeconfig.cache
+/Users/arek/Projects/other/ue/wstep-do-programowania/obj/Debug/net6.0/ref/wstep-do-programowania.dll
