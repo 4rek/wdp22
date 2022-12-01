@@ -1,4 +1,4 @@
-namespace WDP // Note: actual namespace depends on the project name.
+namespace WDP
 {
   interface IZestaw
   {

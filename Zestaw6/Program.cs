@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WDP // Note: actual namespace depends on the project name.
+namespace WDP
 {
   public class Zestaw6 : IZestaw
   {
