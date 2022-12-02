@@ -70,6 +70,3 @@ namespace ConsoleApp1
 * odporny na błędy
 * stabilny
 * optymalny
-
-2. Zmienne
-* 
