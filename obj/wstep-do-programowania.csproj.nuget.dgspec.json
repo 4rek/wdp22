@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arek/Projects/other/ue/wstep-do-programowania/wstep-do-programowania.csproj": {}
+    "/Users/arek/Projects/other/wstep-do-programowania/wstep-do-programowania.csproj": {}
   },
   "projects": {
-    "/Users/arek/Projects/other/ue/wstep-do-programowania/wstep-do-programowania.csproj": {
+    "/Users/arek/Projects/other/wstep-do-programowania/wstep-do-programowania.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arek/Projects/other/ue/wstep-do-programowania/wstep-do-programowania.csproj",
+        "projectUniqueName": "/Users/arek/Projects/other/wstep-do-programowania/wstep-do-programowania.csproj",
         "projectName": "wstep-do-programowania",
-        "projectPath": "/Users/arek/Projects/other/ue/wstep-do-programowania/wstep-do-programowania.csproj",
+        "projectPath": "/Users/arek/Projects/other/wstep-do-programowania/wstep-do-programowania.csproj",
         "packagesPath": "/Users/arek/.nuget/packages/",
-        "outputPath": "/Users/arek/Projects/other/ue/wstep-do-programowania/obj/",
+        "outputPath": "/Users/arek/Projects/other/wstep-do-programowania/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arek/.nuget/NuGet/NuGet.Config"
